@@ -1,9 +1,0 @@
-{
-  "cmd": [
-    "voila",
-    "--no-browser",
-    "--Voila.ip=0.0.0.0",
-    "--Voila.port={port}",
-    "app.ipynb"
-  ]
-}
