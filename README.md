@@ -1,6 +1,6 @@
 ## Exploración interactiva de remolinos ciclónicos y anticlónicos
 
-Repositorio webapp:
+Repositorio de la aplicación web: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anakarinarm/eddies_webapp/HEAD?urlpath=%2Fvoila%2Frender%2Feddy_voila.ipynb)
 
 Este notebook nos permite explorar interactivamente los remolinos durante el año 2018 del producto de AVISO [Global mesoscale eddy trajectory product]([https://www.aviso.altimetry.fr/en/data/products/value-added-products/global-mesoscale-eddy-trajectory-product.html) y los perfiles de [Argo](https://argo.ucsd.edu/) más cercanos a estos remolinos en tiempo (dentro de una ventana de 15 días) y espacio (dentro de hasta 0.25 grados de distancia al contorno inicial del remolino). Usamos [Argopy](https://argopy.readthedocs.io/en/latest/index.html) para obtener estos perfiles.
 1. Selecciona si deseas explorar los remolinos ciclónicos o anticlónicos.
