@@ -125,7 +125,7 @@ sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_173324404456
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1746563585861/work
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1727986715493/work
-#terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1710263781917/work
+terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1710263781917/work
 tinycss2 @ file:///home/conda/feedstock_root/build_artifacts/tinycss2_1729802851396/work
 tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1733256695513/work
 toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1733736030883/work
